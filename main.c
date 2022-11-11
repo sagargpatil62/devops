@@ -3,6 +3,6 @@
 int main()
 {
     int a =10, b = 20;
-    printf("Addition : %d\n",a+b);
+    printf("Addition of 10 and 20 : %d\n",a+b);
     return 0;
 }
